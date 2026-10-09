@@ -16,6 +16,7 @@ export function meta({}: Route.MetaArgs) {
     },
   ];
 }
+
 export function links() {
   return [
     {
